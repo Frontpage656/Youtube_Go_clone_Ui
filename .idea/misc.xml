@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android proj/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/drawable/button.xml" value="0.15" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/drawable/downld.xml" value="0.1165" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1165" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/drawable/play.xml" value="0.1725" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/activity_home_screen.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/dialog.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/down.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/fragment_download_fragment.xml" value="0.1" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/fragment_home_fragment.xml" value="0.25" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/layout/show.xml" value="0.25" />
+        <entry key="..\:/Android Projects/AllForJava/Android proj/app/src/main/res/menu/my_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android proj/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
