@@ -1,4 +1,4 @@
-### Toutube GO clone for android
+### Youtube GO clone for android
 
 ## This is simple ui of youtube Go it include
 
